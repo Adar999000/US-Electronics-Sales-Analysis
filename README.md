@@ -30,6 +30,14 @@ End-to-end Data Analysis project using Python (Pandas, Matplotlib). Analyzed ove
 * **Visualization:** Created Dual-Axis charts (Price vs. Volume), Horizontal Bar charts for product pairs, and Geospatial analysis using Matplotlib.
 * **Advanced Analytics:** Implemented a combination algorithm (`itertools`) to identify product bundling opportunities.
 
+## 📂 Data Source
+* The dataset used in this analysis was originally provided by Keith Galli.
+* https://github.com/KeithGalli/Pandas-Data-Science-Tasks
+
+## 📬 Contact
+* Created by **Adar Zilbershtein**
+* https://www.linkedin.com/in/adar-zilbershtein/
+* **Feel free to reach out for any questions or collaborations!**
 
 ## 🚀 Installation & How to Run
 1. Clone the repository:
@@ -45,6 +53,7 @@ End-to-end Data Analysis project using Python (Pandas, Matplotlib). Analyzed ove
   Launch Jupyter Notebook or Google Colab.
   Open the file Sales_Analysis_Project.ipynb.
   Run all cells to see the analysis and visualizations.
+
 
 
 
